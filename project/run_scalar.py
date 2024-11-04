@@ -1,5 +1,5 @@
 """
-Be sure you have minitorch installed in you Virtual Env.
+Be sure you have minitorch installed in you Virtual Env. ok
 >>> pip install -Ue .
 """
 import random
